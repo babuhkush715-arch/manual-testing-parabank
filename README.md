@@ -95,8 +95,7 @@ available balance — flagged as Critical severity defect (DID015).
 ## Author
 
 **Babusingh Kushwaha**
-Project Associate, CSIR-NEERI Nagpur
-Software Testing (Manual + Automation) | Data Analytics
+Software Tester (Manual + Automation)
 
 [![GitHub](https://img.shields.io/badge/GitHub-babuhkush715--arch-blue)](https://github.com/babuhkush715-arch)
 
